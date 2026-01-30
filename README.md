@@ -25,4 +25,25 @@ The system allows users to **register faces** and **mark attendance** automatica
 ---
 
 ## Folder Structure
+Face-Recognition-Attendance-System/
+│
+├─ frontend/ # Flutter app
+│ └─ lib/
+│ ├─ main.dart
+│ ├─ screens/
+│ ├─ models/
+│ └─ services/
+│
+├─ backend/ # FastAPI backend
+│ ├─ api/
+│ ├─ database/
+│ ├─ services/
+│ ├─ utils/
+│ ├─ main.py
+│ └─ requirements.txt
+│
+└─ README.md # Project overview
+
+
+
 
